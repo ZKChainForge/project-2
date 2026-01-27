@@ -171,7 +171,7 @@ Zk-Arithmos is not just another zero-knowledge library. It represents a fundamen
 
 **1. True Genericity**
 
-Unlike other libraries that are tied to specific field types or proof systems, Zk-Arithmos is built from the ground up to be generic. Your circuit logic can work with any mathematical field, and you can switch between proof systems without rewriting your code.
+Unlike other libraries that are tied to specific field types or proof systems, Zk-Arithmos is built from the ground up to be generic. The circuit logic can work with any mathematical field, and you can switch between proof systems without rewriting your code.
 
 **2. Rust-First Design**
 
@@ -193,7 +193,7 @@ The fundamental promise of Zk-Arithmos is simple:
 
 > **Define your constraints. Provide your secrets. Get a proof that reveals nothing but the truth.**
 
-Whether you're building a private payment system, a confidential voting platform, or a verifiable computation service, Zk-Arithmos provides the tools you need to build with confidence.
+Whether we're building a private payment system, a confidential voting platform, or a verifiable computation service, Zk-Arithmos provides the tools you need to build with confidence.
 
 <br>
 
@@ -3815,19 +3815,6 @@ We build upon and are inspired by:
 
 Thank you to all our contributors! See [CONTRIBUTORS.md](./CONTRIBUTORS.md) for the full list.
 
-<br>
-
-### Sponsors
-
-Development is supported by:
-
-- [Sponsor 1]
-- [Sponsor 2]
-- [Sponsor 3]
-
-Interested in sponsoring? Contact sponsors@zk-arithmos.dev
-
-<br>
 
 ### Special Thanks
 
@@ -3872,7 +3859,7 @@ Zk-Arithmos includes code from third-party projects. See [THIRD-PARTY-LICENSES.m
 If you use Zk-Arithmos in academic research, please cite:
 
 ```bibtex
-@software{zk_arithmos_2024,
+@software{zk_arithmos_2026,
   author = {Zk-Arithmos Contributors},
   title = {Zk-Arithmos: A Generic Zero-Knowledge Circuit Constraint System},
   year = {2024},
