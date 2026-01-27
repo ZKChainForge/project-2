@@ -3586,62 +3586,8 @@ Our development roadmap for upcoming releases.
 - Documentation
 - Examples
 
-<br>
 
-### Version 0.2.0 (Q2 2024)
 
-🔄 **Enhanced Proof Systems**
-- PLONK implementation
-- Universal setup support
-- Custom gate framework
-
-🔄 **DSL Improvements**
-- Type inference enhancements
-- Standard library expansion
-- Better error messages
-
-🔄 **Performance**
-- GPU acceleration (CUDA)
-- Improved parallelization
-- Memory optimizations
-
-<br>
-
-### Version 0.3.0 (Q3 2024)
-
-📋 **Advanced Features**
-- Recursive proof composition
-- Proof aggregation
-- Lookup tables (PLONK)
-
-📋 **Ecosystem**
-- VS Code extension
-- Formal verification integration
-- Ethereum integration tools
-
-📋 **Documentation**
-- Complete book
-- Video tutorials
-- Certification program
-
-<br>
-
-### Version 1.0.0 (Q4 2024)
-
-📋 **Production Hardening**
-- Complete security audit
-- API stabilization
-- Long-term support commitment
-
-📋 **Enterprise Features**
-- Enterprise support options
-- SLA guarantees
-- Training and consulting
-
-📋 **Ecosystem Maturity**
-- Package registry
-- Community governance
-- Standards compliance
 
 <br>
 
@@ -3720,11 +3666,11 @@ We welcome contributions from everyone! Here's how you can help.
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/zk-arithmos.git
+git clone https://github.com/ZKChainForge/project-2.git
 cd zk-arithmos
 
 # Add upstream remote
-git remote add upstream https://github.com/zk-arithmos/zk-arithmos.git
+git remote add upstream https://github.com/ZKChainForge/project-2.git
 
 # Install dependencies
 ./scripts/setup.sh
@@ -3794,7 +3740,7 @@ For longer-form discussions:
 - Show and tell
 - Q&A
 
-**Visit**: [github.com/zk-arithmos/zk-arithmos/discussions](https://github.com/zk-arithmos/zk-arithmos/discussions)
+**Visit**: [github.com/zk-arithmos/zk-arithmos/discussions](https://github.com/ZKChainForge/project-2)
 
 <br>
 
@@ -3808,18 +3754,7 @@ Follow for:
 
 **Follow**: [@zkarithmos](https://twitter.com/zkarithmos)
 
-<br>
 
-### Getting Help
-
-<br>
-
-#### Documentation
-
-Start with our comprehensive documentation:
-- API Reference: [docs.rs/zk-arithmos](https://docs.rs/zk-arithmos)
-- Book: [zk-arithmos.github.io/book](https://zk-arithmos.github.io/book)
-- Examples: [github.com/zk-arithmos/examples](https://github.com/zk-arithmos/examples)
 
 <br>
 
@@ -3843,42 +3778,6 @@ For enterprise needs:
 **Contact**: enterprise@zk-arithmos.dev
 
 <br>
-
-### Events
-
-<br>
-
-#### Community Calls
-
-Monthly community calls featuring:
-- Development updates
-- Community presentations
-- Q&A sessions
-- Feature discussions
-
-<br>
-
-#### Workshops
-
-Regular workshops covering:
-- Getting started with Zk-Arithmos
-- Advanced circuit design
-- Performance optimization
-- Security best practices
-
-<br>
-
-#### Conferences
-
-Find us at:
-- ZK Summit
-- ETH Denver
-- Devcon
-- RustConf
-
-<br>
-
----
 
 <br>
 
@@ -4008,17 +3907,13 @@ If you use Zk-Arithmos in academic research, please cite:
 
 *Prove knowledge. Reveal nothing. Trust mathematics.*
 
-<br>
 
-**[Website](https://zk-arithmos.dev)** • **[Documentation](https://docs.rs/zk-arithmos)** • **[Book](https://zk-arithmos.github.io/book)** • **[Discord](https://discord.gg/zkarithmos)** • **[Twitter](https://twitter.com/zkarithmos)**
-
-<br>
 
 ---
 
 <br>
 
-<sub>Copyright © 2024 Zk-Arithmos Contributors. All rights reserved.</sub>
+<sub>Copyright © 2026 Zk-Arithmos Contributors. All rights reserved.</sub>
 
 </div>
 ```
@@ -4053,4 +3948,3 @@ This comprehensive README provides:
 24. **Acknowledgments** for inspirations
 25. **Licensing information** and citation format
 
-The README is approximately 4,500 lines and provides everything a developer needs to understand, evaluate, and use Zk-Arithmos effectively.
