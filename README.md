@@ -1,4 +1,4 @@
-# Zk-Arithmos: Complete Professional README
+
 
 <div align="center">
 
