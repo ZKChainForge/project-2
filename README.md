@@ -1,6 +1,5 @@
 # Zk-Arithmos: Complete Professional README
 
-```markdown
 <div align="center">
 
 # 🔐 Zk-Arithmos
@@ -9,21 +8,11 @@
 
 <br>
 
-[![Crates.io](https://img.shields.io/crates/v/zk-arithmos.svg)](https://crates.io/crates/zk-arithmos)
-[![Documentation](https://docs.rs/zk-arithmos/badge.svg)](https://docs.rs/zk-arithmos)
-[![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE-MIT)
-[![Build Status](https://github.com/yourusername/zk-arithmos/workflows/CI/badge.svg)](https://github.com/yourusername/zk-arithmos/actions)
-[![codecov](https://codecov.io/gh/yourusername/zk-arithmos/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/zk-arithmos)
-[![Security Audit](https://github.com/yourusername/zk-arithmos/workflows/Security%20Audit/badge.svg)](https://github.com/yourusername/zk-arithmos/actions)
-[![Minimum Rust Version](https://img.shields.io/badge/rustc-1.75+-orange.svg)](https://rust-lang.org)
-[![Downloads](https://img.shields.io/crates/d/zk-arithmos.svg)](https://crates.io/crates/zk-arithmos)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/zk-arithmos.svg)](https://github.com/yourusername/zk-arithmos/graphs/contributors)
-[![Discord](https://img.shields.io/discord/1234567890?color=7389D8&logo=discord&logoColor=white)](https://discord.gg/zkarithmos)
-[![Twitter](https://img.shields.io/twitter/follow/zkarithmos?style=social)](https://twitter.com/zkarithmos)
+
 
 <br>
 
-[📖 Documentation](https://docs.rs/zk-arithmos) •
+[📖 Documentation](https://docs.rs/) •
 [📚 Book](https://yourusername.github.io/zk-arithmos) •
 [🎯 Examples](./examples) •
 [📝 Changelog](./CHANGELOG.md) •
@@ -32,7 +21,6 @@
 
 <br>
 
----
 
 <br>
 
@@ -46,7 +34,7 @@
 
 <br>
 
----
+
 
 </div>
 
@@ -163,7 +151,7 @@
 
 <br>
 
-## 🌟 Overview
+##  Overview
 
 **Zk-Arithmos** (from Greek "ἀριθμός" meaning "number") is a professional-grade, generic zero-knowledge proof circuit constraint system written entirely in Rust. It provides a powerful, type-safe framework that enables developers to define mathematical circuits and generate cryptographic proofs verifying knowledge of secret inputs—without ever revealing those inputs.
 
