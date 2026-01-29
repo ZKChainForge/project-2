@@ -505,7 +505,7 @@ Introduction of the gadget system and comprehensive boolean operations.
 
 ---
 
-## [0.4.0] - 2024-01-15
+
 
 ### 🎉 Highlights
 
@@ -553,7 +553,6 @@ Groth16 proving system implementation and proof serialization.
 
 ---
 
-## [0.3.0] - 2023-11-01
 
 ### 🎉 Highlights
 
@@ -601,7 +600,7 @@ R1CS constraint system implementation and basic circuit operations.
 
 ---
 
-## [0.2.0] - 2023-09-01
+
 
 ### 🎉 Highlights
 
@@ -642,7 +641,7 @@ Wire abstraction and basic field trait implementation.
 
 ---
 
-## [0.1.0] - 2023-07-01
+
 
 ### 🎉 Highlights
 
@@ -680,27 +679,7 @@ This is the initial release establishing the project structure and basic types. 
 
 ---
 
-## Version History Summary
 
-| Version | Release Date | Highlights |
-|---------|--------------|------------|
-| [Unreleased] | - | Recursion, WebGPU, Python bindings |
-| [1.0.0] | 2024-12-15 | **Stable release**, complete feature set |
-| [0.9.0] | 2024-11-01 | Performance, new gadgets, integrations |
-| [0.8.0] | 2024-09-15 | DSL compiler, PLONK backend |
-| [0.7.0] | 2024-07-01 | Marlin backend, witness solver |
-| [0.6.0] | 2024-05-01 | GPU acceleration, parallelization |
-| [0.5.0] | 2024-03-01 | Gadget system, boolean operations |
-| [0.4.0] | 2024-01-15 | Groth16 prover, serialization |
-| [0.3.0] | 2023-11-01 | R1CS constraints, circuit builder |
-| [0.2.0] | 2023-09-01 | Wire system, field traits |
-| [0.1.0] | 2023-07-01 | Initial release, project foundation |
-
----
-
-## Upgrade Guides
-
-### Upgrading to 1.0.0
 
 #### From 0.9.x
 
