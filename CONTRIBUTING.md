@@ -217,16 +217,7 @@ Paste any relevant logs or error messages here
 ```
 ```
 
-#### Bug Severity Levels
 
-When reporting, help us prioritize by indicating severity:
-
-| Severity | Description | Example |
-|----------|-------------|---------|
-| Critical | System unusable, data loss, security issue | Proof verification accepts invalid proofs |
-| High | Major feature broken, no workaround | Prover crashes on valid circuits |
-| Medium | Feature impaired, workaround exists | CLI flag doesn't work, can use config file |
-| Low | Minor issue, cosmetic | Typo in error message |
 
 ### Suggesting Features
 
@@ -930,43 +921,6 @@ Ensure your PR is ready:
 4. Select your branch
 5. Fill in the template
 
-#### PR Template
-
-```markdown
-## Description
-
-Brief description of the changes.
-
-## Type of Change
-
-- [ ] Bug fix (non-breaking change that fixes an issue)
-- [ ] New feature (non-breaking change that adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
-- [ ] Documentation update
-- [ ] Performance improvement
-- [ ] Code refactoring
-
-## Related Issues
-
-Closes #(issue number)
-
-## Changes Made
-
-- Change 1
-- Change 2
-- Change 3
-
-## Testing
-
-Describe the tests you ran:
-
-- [ ] Unit tests
-- [ ] Integration tests
-- [ ] Manual testing
-
-## Screenshots (if applicable)
-
-Add screenshots here.
 
 ## Checklist
 
