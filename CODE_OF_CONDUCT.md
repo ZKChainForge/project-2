@@ -1118,24 +1118,3 @@ Thank you for helping make Zk-Arithmos a welcoming place for everyone.
 </div>
 ```
 
----
-
-This comprehensive CODE_OF_CONDUCT.md includes:
-
-1. **Our Pledge** - Community commitment to inclusion and respect
-2. **Our Standards** - Detailed positive and unacceptable behaviors
-3. **Our Responsibilities** - Maintainer and community member duties
-4. **Scope** - Where the code applies (online, offline, representation)
-5. **Enforcement** - Complete reporting and investigation process
-6. **Enforcement Guidelines** - Severity levels and corresponding actions
-7. **Appeals** - Process for disputing decisions
-8. **Conflict Resolution** - Informal and formal approaches, mediation
-9. **Community Guidelines** - Communication, collaboration, feedback
-10. **Inclusive Language** - Guidance on welcoming language
-11. **Specific Space Guidelines** - GitHub, Discord, events, social media
-12. **Supporting the Community** - Being an ally, bystander intervention
-13. **Mental Health Awareness** - Supporting community wellbeing
-14. **Attribution** - Credits to source documents
-15. **Version History** - Document changelog
-16. **Contact Information** - All ways to reach the team
-
