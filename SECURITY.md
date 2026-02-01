@@ -1384,24 +1384,3 @@ For other inquiries: hello@zk-arithmos.dev
 ```
 
 ---
-
-This comprehensive SECURITY.md covers:
-
-1. **Security Philosophy** - Core principles guiding security decisions
-2. **Supported Versions** - Which versions receive security updates
-3. **Security Model** - Threat model, trust assumptions, security properties
-4. **Vulnerability Reporting** - How to report with safe harbor policy
-5. **Security Advisories** - Format and severity levels
-6. **Bug Bounty Program** - Scope, rewards, rules
-7. **Cryptographic Security** - Algorithms, parameters, side-channels
-8. **Trusted Setup Security** - Ceremony procedures, toxic waste handling
-9. **Implementation Security** - Memory safety, error handling
-10. **Dependency Security** - Policy, audits, supply chain
-11. **Secure Development** - Code review, testing, releases
-12. **Operational Security** - Key management, deployment
-13. **Security Audits** - History and process
-14. **Incident Response** - Team, procedures, communication
-15. **Best Practices for Users** - Circuit development, witness handling
-16. **Compliance** - Standards and frameworks
-17. **Contacts and Acknowledgments**
-
