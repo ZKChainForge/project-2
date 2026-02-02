@@ -778,15 +778,6 @@ Use language that welcomes everyone:
 | Trivial | Small, minor |
 | Just | (often unnecessary) |
 | Any idiot could... | This can be done by... |
-
-#### Cultural Considerations
-
-- Avoid idioms that don't translate
-- Be aware of cultural differences in communication
-- Don't assume familiarity with pop culture references
-- Respect different communication styles
-- Be mindful of time zones and holidays
-
 ---
 
 ## Specific Space Guidelines
@@ -977,13 +968,7 @@ When you witness unacceptable behavior:
 - **Destigmatize**: Normalize discussions about mental health
 - **Share resources**: When appropriate, share helpful resources
 
-#### If Someone is Struggling
 
-- **Listen without judgment**: Let them share
-- **Don't minimize**: Take their feelings seriously
-- **Don't diagnose**: You're not a mental health professional
-- **Suggest resources**: Gently point to professional help
-- **Check in**: Follow up to show you care
 
 #### Crisis Resources
 

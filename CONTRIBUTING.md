@@ -845,19 +845,6 @@ We follow [Conventional Commits](https://www.conventionalcommits.org/):
 | `build` | Build system changes |
 | `revert` | Reverting previous commit |
 
-#### Scopes
-
-| Scope | Description |
-|-------|-------------|
-| `core` | zk-arithmos-core crate |
-| `circuit` | zk-arithmos-circuit crate |
-| `witness` | zk-arithmos-witness crate |
-| `proof` | zk-arithmos-proof crate |
-| `dsl` | zk-arithmos-dsl crate |
-| `cli` | zk-arithmos-cli crate |
-| `deps` | Dependencies |
-| `*` | Multiple scopes |
-
 #### Examples
 
 ```bash

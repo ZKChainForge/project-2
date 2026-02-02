@@ -198,16 +198,7 @@ Zk-Arithmos is designed to protect against the following threats:
 - The verifier has access to all public information
 - Multiple proofs for related statements may be observed
 
-#### Man-in-the-Middle Attackers
 
-**Threat**: An attacker intercepts and modifies proofs, public inputs, or verification keys.
-
-**Protection**: Proofs are non-malleable; verification binds proof to specific public inputs and verification key.
-
-**Assumptions**:
-- Attacker controls the network
-- Authenticity of verification keys must be established out-of-band
-- Public inputs must be transmitted authentically
 
 #### Side-Channel Attackers
 
@@ -1344,13 +1335,6 @@ Community members who have contributed to security:
 
 
 
-## Changelog
-
-### 2024-01-15 - Initial Release
-
-- Initial security policy publication
-- Bug bounty program launch
-- Security advisory process established
 
 ### Future Updates
 
@@ -1360,23 +1344,7 @@ This document will be updated as needed. Check the Git history for detailed chan
 git log --oneline -- SECURITY.md
 ```
 
----
 
-<div align="center">
-
-**Security is a shared responsibility.**
-
-**Thank you for helping keep Zk-Arithmos secure.**
-
----
-
-For security issues: security@zk-arithmos.dev
-
-For general support: support@zk-arithmos.dev
-
-For other inquiries: hello@zk-arithmos.dev
-
----
 
 
 
